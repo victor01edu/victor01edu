@@ -34,7 +34,7 @@
 
 <p>
   <img align="center"
-       src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2F3d-portfolio&psig=AOvVaw0ZlGkTPBKZz5C2Xt3raJx-&ust=1763589733054000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiQuPrZ_JADFQAAAAAdAAAAABAE/?user=victor01edu" />
+       src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2F3d-portfolio&psig=AOvVaw0ZlGkTPBKZz5C2Xt3raJx-&ust=1763589733054000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiQuPrZ_JADFQAAAAAdAAAAABAE" />
 </p>
 
 📊 GitHub Stats
