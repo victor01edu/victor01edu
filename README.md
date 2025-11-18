@@ -24,15 +24,15 @@
 📊 GitHub Stats
 <p>
   <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=victor01-edu&show_icons=true&locale=en&layout=compact" />
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=victor01edu&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=victor01-edu&show_icons=true&locale=en" />
+       src="https://github-readme-stats.vercel.app/api?username=victor01edu&show_icons=true&locale=en" />
 </p>
 
 <p>
   <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=victor01-edu" />
+       src="https://streak-stats.demolab.com/?user=victor01edu" />
 </p>
